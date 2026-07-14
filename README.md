@@ -20,7 +20,7 @@ We are working with a dataset consisting of 13,500+ records. There is some missi
 ## Overview of findings
 
 - Average yearly appreciation for homes in London is ~8%
-- The average home in London sells so around ~£263k
+- The average home in London sells for around ~£263k
 - City of London, Hackney, Southwark are the top 3 areas in terms of average YoY appreciation since 1995
 - Homes in England make up for 40%+ of home sales
 - Correlation between crimes and selling price are not as strong as expected
