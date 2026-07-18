@@ -32,16 +32,22 @@ We are working with a dataset consisting of 13,500+ records. There is some missi
 # Insights Deep Dive
 ### Average YoY Appreciation Ranked:
 <img width="926" height="550" alt="image" src="https://github.com/user-attachments/assets/45aa093d-7f25-4ab8-bcc0-33570977a862" />
+
 Average YoY appreciation among all areas is ~7.92%. The City of London is the leading area coming in at an average of 10.14% annual appreciation. The North East is the worst-performing area coming in at an average of 5.13%. Most areas tend to fall between 7-8% YoY appreciation.
 
 ### Percentages of Houses Sold by Area:
 <img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/a763ead5-f0fc-4786-beb7-0051baf5d6f4" />
+
 England makes up for over 44% of home sales since 1995 which is far greater than any other area. The area with the second most home sales is the South East at just over 8% of total home sales. The average selling price for a home in England is around £247k, putting it below the average selling price of around £263k.
 
 ### Relationship Between Crime Rates and Housing Prices:
 <img width="763" height="421" alt="image" src="https://github.com/user-attachments/assets/c530971a-fede-4d7f-ae31-6e3035674b25" />
+
 We would expect home prices to be generally higher in areas with low crime rates and cheaper in areas with high crime rates. The data shows that this is mostly true, but perhaps their relationship isn't as strong as expected. Most homes that sell for greater than £1M tend to have less than 3,000 crimes committed. We can observe that some people are still willing to pay around £1M despite being in an area where 4,000+ crimes are committed. Many cheap homes can be had in areas with low crime rates. The correlation is fairly weak and crime rates may not have as big of an impact on home prices as expected.
+
+
 
 # Recommendations:
 
+Based on the insights and findings above, I would recommend the following:
 
