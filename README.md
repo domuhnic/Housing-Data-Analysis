@@ -51,3 +51,9 @@ We would expect home prices to be generally higher in areas with low crime rates
 
 Based on the insights and findings above, I would recommend the following:
 
+When looking into a home as an investment, focus on factors such average YoY returns for long term investments and recent top-performers. Crime rates shouldn't be heavily considered as they do not have a large impact on home prices as expected.
+
+The City of London has the best average YoY appreciation and is a safe pick for long-term investment. It is worth noting that despite this, homes sales are relatively low and houses tend to transact for over the average selling price.
+
+Hackney is also a very good choice for long-term investment. Average YoY growth is slightly lower than the City of London but more homes are being sold here, and houses tend to sell for around the average selling price.
+
